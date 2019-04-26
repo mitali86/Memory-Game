@@ -1,4 +1,6 @@
-const icons = ["fas fa-power-off", "fas fa-power-off", "fas fa-bomb" ,"fas fa-bomb" ,"fas fa-cloud-moon", "fas fa-cloud-moon", "fas fa-ice-cream","fas fa-ice-cream", "fas fa-grin-stars", "fas fa-grin-stars", "fas fa-skiing", "fas fa-skiing", "fas fa-rupee-sign", "fas fa-rupee-sign", "fas fa-birthday-cake", "fas fa-birthday-cake", "fas fa-globe-asia", "fas fa-globe-asia", "fas fa-horse", "fas fa-horse"];
+const icons = ["fas fa-power-off", "fas fa-power-off", "fas fa-bomb" ,"fas fa-bomb" ,"fas fa-cloud-moon", "fas fa-cloud-moon", "fas fa-ice-cream","fas fa-ice-cream",
+               "fas fa-grin-stars", "fas fa-grin-stars", "fas fa-skiing", "fas fa-skiing", "fas fa-rupee-sign", "fas fa-rupee-sign", "fas fa-birthday-cake",
+               "fas fa-birthday-cake", "fas fa-globe-asia", "fas fa-globe-asia", "fas fa-horse", "fas fa-horse"];
 const deck = document.querySelector(".card-deck");
 let allCards = document.querySelectorAll(".card");
 let cards = null;
